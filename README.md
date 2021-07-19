@@ -1,11 +1,11 @@
 # api-dio
 <p align="center">
-    <img src="assets/api-imagem.png" width="20%" height="20%" max-width:100% >
+    <img src="assets/api-imagem.png" width="40%" height="40%" max-width:100% >
   </p>
 
 
 <h3 align="center">
-  Foi desenvolvida uma API.NET usando Visual Studio Code referente ao Bootcamp da DIO / Take Blip. com o objetivo demonstrar a integração com o banco de dados MongoDB.  Aplicação deve fazer o cadastro de infectados com Coronavírus, gravando no banco de dados a data de nascimento, o sexo e localização das pessoas. Aula orientada pelo professor Gabriel Faraday.
+  Foi desenvolvida uma API.NET core usando Visual Studio Code referente ao Bootcamp da DIO / Take Blip. com o objetivo demonstrar a integração com um cluster MongoDB.  Aplicação deve fazer o cadastro de infectados com Coronavírus, gravando no banco de dados a data de nascimento, o sexo e localização das pessoas. Aula orientada pelo professor Gabriel Faraday.
 </h3>
 
 
