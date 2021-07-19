@@ -1,6 +1,6 @@
 # api-dio
 <p align="center">
-    <img src="assets/api-imagem.png" width="40%" height="40%" max-width:100% >
+    <img src="assets/api-imagem.png" width="55%" height="55%" max-width:100% >
   </p>
 
 
